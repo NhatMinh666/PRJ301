@@ -1,0 +1,29 @@
+Bài 1: 
+Website máy tính có thể tính toán 4 phép tính cơ bản (+ - * /) giữa 2 số bất kì do người dùng nhập vào ( Yêu cầu: - 2 số được nhập vào phải là số tự nhiên, không được là chữ, ký tự đặc biệt)
+
+Bài 2:
+Website cho phép chọn file ảnh từ pc người dùng để hiển thị lên trên trang web.
+
+Bài 3:
+Website cho phép lưu thông tin người dùng bao gồm (Tên, năm sinh, sđt, ảnh) vào trong cơ sở dữ liệu. Có chức năng thêm, sửa, xóa thông tin người dùng.
+
+Bài 4:
+Website trò chơi cờ caro.
+
+Bài 5:
+Website trò chơi cờ cá ngựa.
+
+Bài 6:
+Website tú lơ khơ ( phỏm + tiến lên).
+
+Bài 7:
+Website quả địa cầu 3D.
+
+Bài 8:
+Website chia sẻ thông tin về vị trí hiện tại của người dùng với 1 người dùng khác.
+
+Bài 9:
+Website booking khách sạn + vé máy bay
+
+Bài 10:
+Google maps 
